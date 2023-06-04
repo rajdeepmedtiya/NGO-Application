@@ -6,3 +6,5 @@ Through which functionalities like search, add, delete and update of records tak
 the database itself.
 
 For Security Purposes the login feature is also been added.
+
+This is a commit for the purpose of SIT753 - Professional Practice Assignment 
